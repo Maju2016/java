@@ -1,0 +1,121 @@
+precisa da virgula
+ 
+Cintia tira o "+" e coloca vírgula
+ 
+invés do +
+ 
+vlwww
+ 
+Podemos ler um livro 10x sempre vai ter algum detalhe q não notamos antes. 
+ 
+bora
+ 
+Onde vai mesmo pra renomear?
+ 
+travou bem na hora aqui kk
+ 
+aperta direto f2 
+numero 1
+ 
+System.out.println("O valor da soma é: " + (num1+num2));	
+ 
+tbm funciona
+ 
+dessa forma eu acho mais facil leti kkkkk
+ 
+mas sempre bom aprender novas formas, n sabia desse de %
+ 
+pensa que a % declara o tipo de variavel e fora das "" você escreve qual o valor, nome da variavel que irá substituir o %
+ 
+sempre na mesma ordem
+ 
+aqui são 3 numeros do tipo float, e vamos preencher com numer1, numero2  e depois (numero 1 + numero 2)
+ 
+com o tempo a gente vai pegando
+ 
+tira um print da tela e manda aqui
+ 
+.metadata
+
+bin/
+
+tmp/
+
+*.tmp
+
+*.bak
+
+*.swp
+
+*~.nib
+
+local.properties
+
+.settings/
+
+.loadpath
+
+.recommenders
+ 
+# External tool builders
+
+.externalToolBuilders/
+ 
+# Locally stored "Eclipse launch configurations"
+
+*.launch
+ 
+# PyDev specific (Python IDE for Eclipse)
+
+*.pydevproject
+ 
+# CDT-specific (C/C++ Development Tooling)
+
+.cproject
+ 
+# CDT- autotools
+
+.autotools
+ 
+# Java annotation processor (APT)
+
+.factorypath
+ 
+# PDT-specific (PHP Development Tools)
+
+.buildpath
+ 
+# sbteclipse plugin
+
+.target
+ 
+# Tern plugin
+
+.tern-project
+ 
+# TeXlipse plugin
+
+.texlipse
+ 
+# STS (Spring Tool Suite)
+
+.springBeans
+ 
+# Code Recommenders
+
+.recommenders/
+ 
+# Annotation Processing
+
+.apt_generated/
+
+.apt_generated_test/
+ 
+# Scala IDE specific (Scala & Java development for Eclipse)
+
+.cache-main
+
+.scala_dependencies
+
+.worksheet
+ 
