@@ -28,6 +28,8 @@ public class Calculadora {
 		//Operações matematicas com a classe Math
 		System.out.printf("%.2f ^ %.2f = %.2f%n", numero1, numero2, Math.pow(numero1,  numero2));
 		System.out.printf("raiz Quadrada de %.2f%n", numero1, Math.sqrt(numero1));
+		
+		leia.close();
 
 		
 	}
