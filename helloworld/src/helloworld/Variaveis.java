@@ -1,12 +1,14 @@
 package helloworld;
 
 import java.util.Scanner;
+//para puxar tipo de uma documentação do java
 
 public class Variaveis {
 	
 	public static void main(String[] args) {
 		
 		Scanner leia = new Scanner(System.in);
+		//isso gera o import
 		
 		System.out.println("Digite o peso: ");
 		int peso = leia.nextInt();

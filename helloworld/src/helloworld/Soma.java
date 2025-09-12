@@ -13,7 +13,7 @@ public class Soma {
 		System.out.println("Digite o primeiro número: ");
 		numero1 = leia.nextDouble();
 		
-		System.out.println("Digite o segundo número: ");
+		System.out.println("Digite o segundo número: 5");
 		numero2 = leia.nextDouble();
 		
 		System.out.printf("%.2f + %.2f = %.2f", numero1, numero2, numero1 + numero2);
