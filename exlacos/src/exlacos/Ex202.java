@@ -10,7 +10,9 @@ public class Ex202 {
 
 		Scanner leia = new Scanner(System.in);
 
-		int cargo, nome, salario, conta, reajuste;
+		int cargo;
+		string nome;
+		float salario, conta, reajuste;
 
 		System.out.println("========================================");
 		System.out.println("				Cargo    				");
@@ -30,14 +32,14 @@ public class Ex202 {
 		nome = leia.nextInt();
 		
 		System.out.println("Digite seu salario: ");
-		salario = leia.nextInt();
+		salario = leia.nextFloat();
 		
 		System.out.printf("Nome: %d", nome);
 		
 		switch(cargo) {
 		case 1:
 			System.out.println("Cargo: Gerente");
-			reajuste = 10;
+			reajuste = 0.1;
 			conta = salario + (reajuste * salario);
 			System.out.printf("Valor total: %d.00", conta);
 			break;
