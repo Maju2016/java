@@ -8,7 +8,7 @@ public class Ex201 {
 
 		Scanner leia = new Scanner(System.in);
 
-		float produto, quantidade, preco, conta;
+		int produto, quantidade, preco, conta;
 
 		System.out.println("========================================");
 		System.out.println("				Produtos				");
@@ -22,49 +22,55 @@ public class Ex201 {
 		System.out.println("========================================");
 		
 		System.out.println("Digite o numero do produto: ");
-		produto = leia.nextFloat();
+		produto = leia.nextInt();
 		
 		System.out.println("Digite a quantidade comparada: ");
-		quantidade = leia.nextFloat();
+		quantidade = leia.nextInt();
 		
-		conta = preco * quantidade;
-	
+		
+
 		
 		switch(produto) {
 		case 1:
 			System.out.println("Produto: Cachorro quente");
 			preco = 10;
-			System.out.printf("Valor total: %.2f", conta);
+			conta = preco * quantidade;
+			System.out.printf("Valor total: %d.00", conta);
 			break;
 		
 		case 2:
 			System.out.println("Produto: X-Salada");
-			preco = 10;
-			System.out.printf("Valor total: (preco * quantidade)");
+			preco = 15;
+			conta = preco * quantidade;
+			System.out.printf("Valor total: %d.00", conta);
 			break;
 			
 		case 3:
 			System.out.println("Produto: X-Bacon");
-			preco = 10;
-			System.out.printf("Valor total: (preco * quantidade)");
+			preco = 18;
+			conta = preco * quantidade;
+			System.out.printf("Valor total: %d.00", conta);
 			break;
 			
 		case 4:
 			System.out.println("Produto: Bauru");
-			preco = 10;
-			System.out.printf("Valor total: (preco * quantidade)");
+			preco = 12;
+			conta = preco * quantidade;
+			System.out.printf("Valor total: %d.00", conta);
 			break;
 			
 		case 5:
 			System.out.println("Produto: Refrigerante");
-			preco = 10;
-			System.out.printf("Valor total: (preco * quantidade)");
+			preco = 8;
+			conta = preco * quantidade;
+			System.out.printf("Valor total: %d.00", conta);
 			break;
 			
 		case 6:
 			System.out.println("Produto: Suco de Laranja");
-			preco = 10;
-			System.out.printf("Valor total: (preco * quantidade)");
+			preco = 13;
+			conta = preco * quantidade;
+			System.out.printf("Valor total: %d.00", conta);
 			break;
 			
 		default:
