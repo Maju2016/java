@@ -8,14 +8,6 @@
 <br />
 
 
-<div align="center">
-  <img src="https://img.shields.io/github/languages/top/rafaelq80/aulas_java_t82?style=flat-square" />
-  <img src="https://img.shields.io/github/repo-size/rafaelq80/aulas_java_t82?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/count/rafaelq80/aulas_java_t82?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/rafaelq80/aulas_java_t82?style=flat-square" />
-  <img src="https://img.shields.io/github/issues/rafaelq80/aulas_java_t82?style=flat-square" />
-  <img src="https://img.shields.io/github/issues-pr/rafaelq80/aulas_java_t82?style=flat-square" />
-</div>
 
 ------
 
@@ -35,16 +27,18 @@ Você encontrará conteúdos que abrangem desde os fundamentos da linguagem Java
 
 <br />
 
-| Aula    | Tema                   | Acesso                                                       | Descrição                                             |
-| ------- | ---------------------- | ------------------------------------------------------------ | ----------------------------------------------------- |
-| Aula 01 | Introdução ao Java     | [Abrir](https://github.com/maju2016/java/tree/main/helloworld) | Primeiros passos, estrutura básica e saída de dados   |
-| Aula 02 | Variáveis e Operadores | [Abrir](https://github.com/Maju2016/java/tree/main/operadores) | Variáveis, constantes, `Scanner`, operadores diversos |
-| Aula 03 | Condicionais e Lógicos | [Abrir](https://github.com/Maju2016/java/tree/main/condicionais) | `if/else`, `switch`, operadores relacionais e lógicos |
-| Aula 04 | Laços de Repetição     | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_04) | Estruturas `for`, `while` e `do-while`                |
-| Aula 05 | Arrays                 | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_05) | Vetores e matrizes                                    |
-| Aula 06 | Collections (Parte 1)  | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_06) | Trabalhando com `ArrayList` e `Set`                   |
-| Aula 07 | Collections (Parte 2)  | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_07) | Uso de `Queue` e `Stack`                              |
-| Aula 08 | Métodos                | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_08) | Criação de métodos com e sem retorno                  |
+| Tema                   | Acesso                                                       | Descrição                                             |
+| ---------------------- | ------------------------------------------------------------ | ----------------------------------------------------- |
+| Introdução ao Java     | [Abrir](https://github.com/Maju2016/java/tree/main/helloworld) | Primeiros passos, estrutura básica e saída de dados   |
+| Variáveis e Operadores | [Abrir](https://github.com/Maju2016/java/tree/main/operadores) | Variáveis, constantes, `Scanner`, operadores diversos |
+| Condicionais e Lógicos | [Abrir](https://github.com/Maju2016/java/tree/main/condicionais) | `if/else`, `switch`, operadores relacionais e lógicos |
+| Laços de Repetição     | [Abrir](https://github.com/Maju2016/java/tree/main/repeticoes) | Estruturas `for`, `while` e `do-while`                |
+| Vetores                | [Abrir](https://github.com/Maju2016/java/tree/main/vetores) | Vetores e matrizes                                    |
+| Coleções               | [Abrir](https://github.com/Maju2016/java/tree/main/colecoes) | Trabalhando com `ArrayList`, `Set` `Queue` e `Stack`    |
+| Lambda                 | [Abrir](https://github.com/Maju2016/java/tree/main/lambda) | Uso de lambdas                             |
+| Métodos                | [Abrir](https://github.com/Maju2016/java/tree/main/metodos) | Criação de métodos com e sem retorno                  |
+| Option                 | [Abrir](https://github.com/Maju2016/java/tree/main/option) | Uso das options                |
+| Exceptions             | [Abrir](https://github.com/Maju2016/java/tree/main/aula_exceptions) | Uso das exceptions                  |
 
 <br />
 
@@ -63,10 +57,10 @@ Para executar os códigos localmente, você precisará de:
 
 ### 4.1. Importando os Projetos
 
-1. Clone o repositório [Aulas Java](https://github.com/rafaelq80/aulas_java_t82) dentro da pasta do *Workspace* do Eclipse/STS
+1. Clone o repositório [Aulas Java](https://github.com/Maju2016/java) dentro da pasta do *Workspace* do Eclipse/STS
 
 ```bash
-git clone https://github.com/rafaelq80/aulas_java_t82.git
+git clone https://github.com/Maju2016/java.git
 ```
 
 2. **Abra o Eclipse/STS** e selecione a pasta do *Workspace* onde você clonou o repositório
@@ -100,6 +94,6 @@ Este repositório é parte de um projeto educacional, mas contribuições são s
 
 ##  Contato
 
-Desenvolvido por [**Rafael**](https://github.com/rafaelq80)
+Desenvolvido por [**Maria Julia**](https://github.com/Maju2016)
 Para dúvidas, sugestões ou colaborações, entre em contato via GitHub ou abra uma issue!
 
